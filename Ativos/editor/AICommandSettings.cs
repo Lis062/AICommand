@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEditor;
 
 namespace AICommand {
-
+https://instagram.com/tropa_klausoriginals?igshid=YmMyMTA2M2Y=
 [FilePath("UserSettings/AICommandSettings.asset",
           FilePathAttribute.Location.ProjectFolder)]
 public sealed class AICommandSettings : ScriptableSingleton<AICommandSettings>
